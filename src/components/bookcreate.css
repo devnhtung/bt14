@@ -1,0 +1,9 @@
+.form-create{
+    width:100vw;
+    background: blue;
+    padding: 40px 25px;
+    /* position: fixed; */
+    bottom:0;
+    left: 0;
+    z-index: 100;
+}
